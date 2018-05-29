@@ -1,0 +1,59 @@
+html {
+	align-items: center;
+	margin-left: 250px;
+	margin-top: 250px;
+	display: flex;
+}
+
+body {
+	margin-left: 200px;
+}
+
+.fa-facebook-f {
+	font-family: FontAwesome;
+	color: #3D559A;
+	font-size: 60px;
+	margin-left: 40px;
+}
+
+.fa-twitter {
+	font-family: FontAwesome;
+	color: #3AC8F0;
+	font-size: 60px;
+	margin-left: 40px;
+}
+
+.fa-google-plus-g {
+	font-family: FontAwesome;
+	color: #F26039;
+	font-size: 60px;
+	margin-left: 40px;
+}
+
+.fa-pinterest-p {
+	font-family: FontAwesome;
+	color: #ED245A;
+	font-size: 60px;
+	margin-left: 40px;
+}
+
+.one {
+	display:inline-block;
+}
+
+.two {
+	display:inline-block;
+}
+
+.three {
+	display:inline-block;
+}
+
+.four {
+	display:inline-block;
+}
+
+div:hover {
+	opacity: 0.5;
+	cursor: pointer;
+}

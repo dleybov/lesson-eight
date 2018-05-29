@@ -1,0 +1,22 @@
+body {
+	text-align: center;
+}
+
+img {
+	width: 250px;
+	height: 287px;
+	font-family: arial;
+}
+
+.parent {
+	width: 100%;
+}
+
+.parent > div {
+	display: inline-block;
+	box-sizing: border-box;
+}
+
+h1 {
+	font-family: arial;
+}
